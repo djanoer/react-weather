@@ -1,3 +1,15 @@
+===== WEATHER APP WITH REACT =====
+
+Demo: https://mendung-tanpo-udan.netlify.app/
+
+Source Code : https://github.com/djanoer/react-weather
+
+
+------------------------------------
+thanks to
+Tyler Potts
+Youtube : https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
